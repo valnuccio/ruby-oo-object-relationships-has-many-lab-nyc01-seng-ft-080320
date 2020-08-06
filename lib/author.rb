@@ -12,7 +12,7 @@ class Author
     def self.all
         @@all
     end
-    
+
     def posts
         Post.all
     end
